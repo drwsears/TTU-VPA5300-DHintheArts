@@ -1,0 +1,1 @@
+Download Gutenberg data set here: https://www.kaggle.com/nltkdata/gutenberg

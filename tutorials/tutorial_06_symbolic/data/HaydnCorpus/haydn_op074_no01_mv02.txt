@@ -1,0 +1,24 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	74				
+Work	1				
+Mvt	ii				
+Year	1793				
+Time Signature	3/8				
+Pulse	Eighth				
+Key Signature	1#				
+Upbeat	No				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+G	Major	Begin	Begin	24	3.75
+D	Major	23	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+EV	No	33	1	33	1
+PAC	No	51	1	51	1
+					
+					
+					

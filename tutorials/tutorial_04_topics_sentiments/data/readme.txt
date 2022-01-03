@@ -1,0 +1,1 @@
+Download tweets data set here: https://www.kaggle.com/benhamner/clinton-trump-tweets

@@ -1,0 +1,25 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	17				
+Work	5				
+Mvt	i				
+Year	1771				
+Time Signature	4/4				
+Pulse	Quarter				
+Key Signature	1#				
+Upbeat	Yes				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+G	Major	Begin	Begin	15	4.75
+D	Major	13	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+HC	Yes	8	4	8	3
+PAC	No	12	3	12	3
+HC	No	18	3	18	3
+DC	No	24	1	24	1
+PAC	No	25	3	25	3
+PAC	No	32	3	32	3

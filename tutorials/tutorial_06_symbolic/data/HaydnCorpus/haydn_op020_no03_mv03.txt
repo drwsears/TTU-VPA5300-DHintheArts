@@ -1,0 +1,22 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	20				
+Work	3				
+Mvt	iii				
+Year	1771				
+Time Signature	3/4				
+Pulse	Quarter				
+Key Signature	1#				
+Upbeat	No				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+G	Major	Begin	Begin	13	3.75
+D	Major	13	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+IAC	Yes	8	2	8	1
+HC	Yes	27	2	27	1
+PAC	No	41	1	41	1

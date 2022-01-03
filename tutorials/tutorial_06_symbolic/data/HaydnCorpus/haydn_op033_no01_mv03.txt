@@ -1,0 +1,25 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	33				
+Work	1				
+Mvt	iii				
+Year	1781				
+Time Signature	6/8				
+Pulse	Eighth				
+Key Signature	2#				
+Upbeat	Yes				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+D	Major	Begin	Begin	16	4
+A	Major	16	6	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+HC	No	8	1	8	1
+HC	Yes	16	3	16	1
+HC	No	24	1	24	1
+PAC	No	30	1	30	1
+DC	Yes	36	4	36	1
+PAC	No	38	1	38	1

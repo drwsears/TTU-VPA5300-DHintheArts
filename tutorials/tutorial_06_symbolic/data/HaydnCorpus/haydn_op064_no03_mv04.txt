@@ -1,0 +1,27 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	64				
+Work	3				
+Mvt	iv				
+Year	1790				
+Time Signature	2/4				
+Pulse	Quarter				
+Key Signature	2b				
+Upbeat	Yes				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+Bb	Major	Begin	Begin	20	2
+F	Major	18	2.5	46	2
+Eb	Major	47	1	51	1
+F	Major	52	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+HC	No	4	1	4	1
+PAC	No	10	1	10	1
+HC	No	35	1	35	1
+HC	No	53	1	53	1
+PAC	No	67	1	67	1
+					

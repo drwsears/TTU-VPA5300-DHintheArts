@@ -1,0 +1,25 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	76				
+Work	5				
+Mvt	ii				
+Year	1797				
+Time Signature	Cut				
+Pulse	Quarter				
+Key Signature	6#				
+Upbeat	Yes				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+F#	Major	Begin	Begin	14	4.75
+C#	Major	14	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+PAC	No	9	1	9	1
+DC	Yes	27	3	27	1
+PAC	No	33	1	33	1
+					
+					
+					

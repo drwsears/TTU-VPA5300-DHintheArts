@@ -1,0 +1,25 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	50				
+Work	6				
+Mvt	ii				
+Year	1787				
+Time Signature	6/8				
+Pulse	Eighth				
+Key Signature	1b				
+Upbeat	Yes				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+D	Minor	Begin	Begin	10	4
+F	Major	10	6	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+HC	No	2	4	2	4
+PAC	No	4	4	4	4
+HC	No	8	1	8	1
+PAC	No	22	1	22	1
+					
+					

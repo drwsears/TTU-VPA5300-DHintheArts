@@ -1,0 +1,28 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	71				
+Work	1				
+Mvt	i				
+Year	1793				
+Time Signature	4/4				
+Pulse	Quarter				
+Key Signature	2b				
+Upbeat	No				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+Bb	Major	Begin	Begin	31	4.75
+F	Major	30	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+PAC	No	8	1	8	1
+HC	No	16	1	16	1
+PAC	No	30	1	30	1
+HC	No	36	1	36	1
+PAC	No	51	1	51	1
+PAC	No	66	1	66	1
+					
+					
+					

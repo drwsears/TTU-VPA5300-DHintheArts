@@ -1,0 +1,24 @@
+Descriptive Information					
+Composer	Haydn				
+Genre	String Quartet				
+Opus	55				
+Work	1				
+Mvt	ii				
+Year	1788				
+Time Signature	2/4				
+Pulse	Quarter				
+Key Signature	2#				
+Upbeat	No				
+
+Tonal Regions					
+Key	Mode	Start Bar Number	Start Pulse Number	End Bar Number	End Pulse Number
+D	Major	Begin	Begin	19	1.875
+A	Major	19	1	35	1.5
+D	Major	35	1	End	End
+
+Cadences
+Cadence Category	Melodic Dissonance	Violin Bar Number	Violin Pulse Number	Cello Bar Number	Cello Pulse Number
+PAC	No	16	1	16	1
+HC	No	22	1	22	1
+PAC	No	34	1	34	1
+					
